@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+    color: gold;
+    font-family: Helvetica, sans-serif;
+}
+
+canvas {
+    border: 1px solid black;
+}
